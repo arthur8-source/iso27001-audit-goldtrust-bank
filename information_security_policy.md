@@ -137,7 +137,6 @@ GoldTrust Bank Ltd is committed to:
 This policy shall be reviewed annually or when significant changes occur.
 
 **Approved by:** Management
-**Effective Date:** [Insert Date]
 
 ---
 
