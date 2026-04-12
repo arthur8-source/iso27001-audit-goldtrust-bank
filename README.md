@@ -194,6 +194,7 @@ It is designed to reflect the responsibilities of:
 ##  Author
 
 **Bernard Arthur**
+
 Cybersecurity Analyst | ISO/IEC 27001 Lead Auditor | Offensive Security Enthusiast
 
 ---
