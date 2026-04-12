@@ -32,7 +32,7 @@ This SoA applies to:
 
 ##  Control Applicability Table
 
-| Control ID | Control Name                                   | लागू (Applicable) | Implementation Status | Justification                                               |
+| Control ID | Control Name                                   | (Applicable) | Implementation Status | Justification                                               |
 | ---------- | ---------------------------------------------- | ----------------- | --------------------- | ----------------------------------------------------------- |
 | A.5.1      | Policies for Information Security              | Yes               | Implemented           | Required for governance and compliance                      |
 | A.5.7      | Threat Intelligence                            | No                | Not Implemented       | Organization currently lacks threat intelligence capability |
