@@ -112,10 +112,10 @@ iso27001-audit-goldtrust-bank/
 
 This project demonstrates capability in:
 
-* ISO 27001 auditing
-* Risk management
-* Security documentation
-* Cybersecurity consulting
+* ISO/IEC 27001 Auditing  
+* Risk Assessment & Risk Treatment  
+* Security Control Implementation  
+* Audit Planning & Reporting  
 
 ---
 
